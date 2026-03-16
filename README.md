@@ -1,3 +1,5 @@
+***Under Implementation**
+
 # Hello, I'm Root-775 👋
 
 Welcome to my GitHub profile! I'm a developer passionate about building clean, efficient, and impactful software solutions.
@@ -15,16 +17,13 @@ Welcome to my GitHub profile! I'm a developer passionate about building clean, e
 ### Languages
 - **JavaScript/TypeScript** - Web development, Node.js
 - **Python** - Data processing, automation
-- **Java** - Backend development
 - **SQL** - Database design and optimization
-- *Add more as applicable*
 
 ### Tools & Technologies
 - Git & GitHub
 - Docker & containerization
 - CI/CD pipelines
 - RESTful APIs
-- *Add more as applicable*
 
 ## 📊 GitHub Stats
 
