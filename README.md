@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building clean, e
 - 📍 Based on Earth 🌍
 
 ## 💼 Skills
+- PHP
 
 ### Languages
 - **JavaScript/TypeScript** - Web development, Node.js
