@@ -40,6 +40,7 @@ Brief description of what this project does and the technologies used.
 ### Project 2: [Another Project](https://github.com/root-775/another-repo)
 Brief description of this project's purpose and impact.
 
+
 ## 📚 Latest Articles & Blogs
 
 - [Article Title](link) - Brief description
